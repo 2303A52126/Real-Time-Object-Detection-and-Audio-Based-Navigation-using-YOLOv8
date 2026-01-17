@@ -24,8 +24,13 @@ This project implements a YOLOv8-based real-time object detection system designe
 
 
 
-## ▶️ How to Run
-```bash
-pip install -r requirements.txt
-python main.py
+## 🔮 Future Enhancements
+
+Object tracking
+
+Obstacle priority alerts
+
+Mobile and wearable integration
+
+Multilingual audio support
 
