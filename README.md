@@ -20,7 +20,9 @@ This project implements a YOLOv8-based real-time object detection system designe
 - gTTS (Text-to-Speech)
 
 ## 📷 Sample Output
-(Add screenshots here)
+<img width="535" height="663" alt="image" src="https://github.com/user-attachments/assets/30836259-de41-4574-a405-dd66c6e19581" />
+
+
 
 ## ▶️ How to Run
 ```bash
